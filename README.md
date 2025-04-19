@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Berna!
 
-<!--
-**berna-ikiz/berna-ikiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on **web and mobile development**, especially with **React Native**, **JavaScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 **Languages**: JavaScript, Ruby, PHP, .Net
+- ⚙️ **Frameworks**: React Native, Ruby on Rails, Expo
+- 🧰 **Tools**: Git, VS Code, Postman
+---
+
+📫 Reach me at:  
+[LinkedIn](https://www.linkedin.com/in/bernaikiz/) 
+✉️ Email: brn.ikiz.35@gmail.com
+
